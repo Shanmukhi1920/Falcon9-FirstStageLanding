@@ -1,4 +1,4 @@
-# SpaceX Falcon 9 Launch Analysis and Prediction
+
 
 ## Project Overview
 This project analyzes SpaceX Falcon 9 rocket launches to predict landing outcomes and estimate costs, aiming to inform competitive bidding strategies in the space industry. It combines diverse data collection methods, comprehensive exploratory data analysis, and machine learning techniques to provide actionable insights. The study culminates in an interactive dashboard for visualizing key metrics, offering a powerful tool for understanding factors influencing launch success and costs in the commercial space sector.
