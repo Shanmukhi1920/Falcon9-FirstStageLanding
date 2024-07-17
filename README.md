@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes SpaceX Falcon 9 rocket launches to predict landing outcomes and estimate launch costs. The goal is to provide insights that could help other companies bid competitively against SpaceX for rocket launches. The analysis covers various aspects including data collection, exploratory data analysis, visualization, and machine learning prediction.
+This project analyzes SpaceX Falcon 9 rocket launches to predict landing outcomes and estimate launch costs. The goal is to provide insights that could help other companies bid competitively against SpaceX for rocket launches. 
 
 ## Datasets
 
