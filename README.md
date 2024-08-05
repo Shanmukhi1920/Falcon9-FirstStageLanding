@@ -52,7 +52,7 @@ Advanced visualizations were created using:
    - Mapped launch sites and outcomes
    - Analyzed proximities to launch sites
 
-2. **Plotly Dash** (`scripts/spacex_dash_app.py`):
+2. **Plotly Dash** (`src/spacex_dash_app.py`):
    - Developed an interactive dashboard
    - Created a pie chart for successful launches by site
    - Produced a scatter plot for payload mass vs. launch class
@@ -82,7 +82,7 @@ Then, open the desired notebook in the `notebooks/` directory.
 
 To run the Dash application:
 ```bash
-python scripts/spacex_dash_app.py
+python src/spacex_dash_app.py
 ```
 
 ## Results and Conclusions
